@@ -46,7 +46,6 @@ You could even make a simple paper prototype to experiment with, but don't spend
 1. Start up a `budo` server and go to the page in your browser. Check back frequently to see if there are errors or to confirm that the page is still working!
 1. Create your first controller. Create a sanity check variable on your controller to check that everything is connected properly. You may use a separate controller file if you prefer, or keep your controller(s) in `app.js`.
 
-<img src="http://www.thisiscolossal.com/wp-content/uploads/2014/09/amish.gif" width="50%">
 
 ### Implement Wireframes with Dummy Data
 
