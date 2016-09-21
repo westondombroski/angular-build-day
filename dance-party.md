@@ -39,9 +39,6 @@ If you're following the user stories above, you probably only need one page. Dra
 
 You could even make a simple paper prototype to experiment with how the user can interact with stickers, but don't spend too long on this step!
 
-<img src="http://www.sabazaidi.com/img/ethny-prototype.png" width="50%">  
-
-<sup>image from Saba Zaidi at http://www.sabazaidi.com/ethny.php</sup>
 
 
 ### Explore the <a href="https://github.com/Giphy/GiphyAPI#giphy-sticker-api" >giphy sticker api</a>
@@ -58,7 +55,6 @@ You could even make a simple paper prototype to experiment with how the user can
 1. Start up a `budo` server and go to the page in your browser. Check back frequently to see if there are errors or to confirm that the page is still working!
 1. Create your first controller. Create a sanity check variable on your controller to check that everything is connected properly. You may use a separate controller file if you prefer, or keep your controller(s) in `app.js`.
 
-<img src="http://www.thisiscolossal.com/wp-content/uploads/2014/09/amish.gif" width="50%">
 
 ### Implement Wireframes with Dummy Data
 
