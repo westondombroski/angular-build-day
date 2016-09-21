@@ -1,6 +1,8 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> Angular Build
 
-Build an application using Angular.
+Design and build an application from scratch using Angular.
+
+<img src="http://www.thisiscolossal.com/wp-content/uploads/2014/09/amish.gif" width="50%">
 
 ### Goals
 
