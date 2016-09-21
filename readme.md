@@ -24,6 +24,7 @@ Remember, you've seen how to:
 * Incorporate an external angular directive *other than an angular-ui module* (for example, `ngDraggable` or `ngStorage` -- once place to browse is <a href="http://ngmodules.org">ng-modules.org</a>).
 * Use data from an external API.
 * Create multiple view templates and use routing to navigate.
+* Build your own full-fledged back end with a server and database. 
 
 ### App Ideas
 
