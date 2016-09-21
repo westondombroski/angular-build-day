@@ -1,6 +1,6 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> API Remix
 
-Your goal is "remix" data from an API using Angular and your choice of public APIs.
+"Remix" and show off data from an API using Angular and your choice of public APIs.
 
 ### Suggested API Endpoints
 
@@ -9,7 +9,6 @@ Your goal is "remix" data from an API using Angular and your choice of public AP
 * [Reddit API](https://www.reddit.com/dev/api)
 * [City Bikes API](http://api.citybik.es/v2/)
 * [Spotify Web API](https://developer.spotify.com/web-api/)
-* Your Personal API!
 
 **Do Not** Use endpoints that require AUTH or SECRET TOKENs.
 
@@ -20,7 +19,7 @@ Your goal is "remix" data from an API using Angular and your choice of public AP
 Your app should do one thing, and do it well. Here are some ideas:
 
 * **Like it / Love it** -- toggle UI elements like buttons and icons
-* **Sort it / Search it** -- make it easy to search your content
+* **Sort it / Search it** -- make it easy to sort, search, and filter your content
 * **Bookmark it / Share it** -- use query parameters or hash state to create shareable links
 * **Gameify it** -- make a quiz, flash cards, guessing game, or racing game clone.
 
