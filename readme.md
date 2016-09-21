@@ -37,6 +37,7 @@ You can make any app idea you like, but it should be small enough in scope that 
 Here are some suggestions for app ideas that you could build:
 
 1. Build a front-end for your personal API.
+1. A pokemon tracker (did you know super-crud has [pokemon endpoints](https://super-crud.herokuapp.com/pokemon))?
 1. An [API remix](api-integration.md) that integrates with some other public API.
 1. [A blog!](blog.md)
 1. A [dance party](dance-party.md) app with gifs and music!
@@ -51,4 +52,4 @@ Depending on what you decide to build, you may not need a server. You can use da
 
 ### Deliverables
 
-On Friday, September 23rd, you'll share what you've built! 
+On Friday, September 23rd, you'll share what you've built!
