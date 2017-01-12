@@ -1,4 +1,4 @@
-# <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> Angular Build
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> Angular Build (UXDi Collaboration)
 
 Design and build an application from scratch using Angular.
 
@@ -6,49 +6,49 @@ Design and build an application from scratch using Angular.
 
 ### Goals
 
-Make an app that is:
-* thoughtfully designed
-* pleasant to use
-* interesting to you
+Make an app that:
+* is thoughtfully designed
+* is pleasant to use
+* shows off your skills with Angular
 
-On the technical side, aim for:
+While developing, consider:
 * modular and organized code  
-* commit frequently with descriptive commit messages
-* only interact with the DOM through directives (no jQuery DOM stuff)
+* frequent commits with descriptive commit messages
+* only interacting with the DOM through directives (no jQuery DOM interaction)
 * challenging yourself to conquer an area that's currently less clear
 
-Remember, you've seen how to:  
-* Create and use a custom angular directive.
+### Technical Requirements
+
+These requirements will help ensure you build an interactive prototype that demonstrates your ability with Angular. You are not required to build a fully-fledged CRUD app.
+
+
+Minimum requirements:
+* Create an angular app with custom HTML, CSS, and JavaScript.  
+* Use client-side routing to create and route at least two pages with different view templates.
+* Create at least two controllers that display different data (one for each view, and any extra needed).
+* Create an express server to serve your front-end files (main HTML, template HTML, CSS, JavaScript, images, assets...).
+
+
+If appropriate for your app, you may need or want to:
+* Create a custom angular directive.
 * Create a custom service.
 * Use an <a href="https://angular-ui.github.io">angular-ui module</a> like UI-bootstrap for a UI component or feature.
 * Incorporate an external angular directive *other than an angular-ui module* (for example, `ngDraggable` or `ngStorage` -- once place to browse is <a href="http://ngmodules.org">ng-modules.org</a>).
 * Use data from an external API.
-* Create multiple view templates and use routing to navigate.
-* Build your own full-fledged back end with a server and database. 
+* Build a database with models to store your own data.
 
-### App Ideas
+### Scope
 
-You can make any app idea you like, but it must be small enough in scope that you can build it over two days and focused enough that you can build it *well* in that time.
-
-Here are some suggestions for app ideas that you could build:
-
-1. A front-end for your personal API.
-1. An [API remix](api-integration.md) that integrates with some other public API.
-1. A [blog!](blog.md).
-1. A [dance party](dance-party.md) app with gifs and music.
-1. Any idea you'd like!
-
-Depending on what you decide to build, you may not need a server. You can use data from external APIs or store data that will reset when the page loads.  When deciding whether to build a MEAN stack application, consider the following questions:
-
-- What do you most want to practice on?
-- What can you get done in the time?
-- What makes sense for the app you're building?
-
+You and your design team may have come up with a large plan. It is your responsibility to divide that plan into small, manageable parts and build them one at a time.
 
 ### Deliverables
 
-**A GitHub repository for the project with frequent commits and a README.**
+**A GitHub repository for the project with frequent commits and a README.** The README should acknowledge your design team (links to their LinkedIn).
 
-**A small but working "skateboard" version of your app on the master branch.**
+**A working prototype version of your app on the master branch.**
 
-On Friday, September 23rd, you'll share what you've built!
+**A working prototype version of your app deployed on Heroku.** This should be linked in your README.
+
+On Friday, January 13th, at 4:00pm, you'll check in with your design team to show off an initial version, get feedback, ask questions, etc.
+
+On Tuesday, January 17th, at 9:30am, you'll share what you've built with your design team!
