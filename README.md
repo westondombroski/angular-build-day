@@ -20,16 +20,12 @@ While developing, consider:
 
 
 ### Technical Requirements
-
-These requirements will help ensure you build an interactive prototype that demonstrates your ability with Angular.
-
-Minimum Requirements:
 * Create a front-end angular app with custom HTML, CSS, and JavaScript.
 * Use client-side routing to create and route to at least two different pages (each with their own view templates and controllers).
 
 > We do not expect you to build a realistic CRUD app with a fully featured backend -- instead, we want you to prototype something of value/interest to your client so that you can quickly get critical feedback on your design and implementation *before you have invested significant resources* in the application.
 
-If appropriate for your app, you may need or want to:
+If appropriate, consider incoporating the following:
 * Use an OO approach (constructors) to organize data and behaviors into classes/models.
 * Use data from an external API.
 * Incorporate an external angular directive like `ngDraggable` or `ngStorage` (see <a href="http://ngmodules.org">ng-modules.org</a>).
