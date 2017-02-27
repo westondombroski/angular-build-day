@@ -1,54 +1,66 @@
-# <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> Angular Build (UXDi Collaboration)
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> Angular Build Day
 
-Design and build an application from scratch using Angular.
+Your goal is to quickly design, prototype, and get feedback on an application using Angular.
 
-<img src="http://www.thisiscolossal.com/wp-content/uploads/2014/09/amish.gif" width="50%">
+<img src="http://www.thisiscolossal.com/wp-content/uploads/2014/09/amish.gif" width="400px">
 
 ### Goals
 
-Make an app that:
+Make a front-end application that:
+* does a very tiny thing very well (keep it simple!)
 * is thoughtfully designed
 * is pleasant to use
-* shows off your skills with Angular
+* shows off your skills with Angular (no jQuery!)
 
 While developing, consider:
-* modular and organized code  
-* frequent commits with descriptive commit messages
-* only interacting with the DOM through directives (no jQuery DOM interaction)
-* challenging yourself to conquer an area that's currently less clear
+* what is the simplist possible solution?
+* how will you approach the problem so that you are always making tiny low-cost iterations?
+    - Your git commit history should reflect this process
+* how will you solicit feedback on your user experience and your technical approach?
+
 
 ### Technical Requirements
 
-These requirements will help ensure you build an interactive prototype that demonstrates your ability with Angular. You are not required to build a fully-fledged CRUD app.
+These requirements will help ensure you build an interactive prototype that demonstrates your ability with Angular.
 
+Minimum Requirements:
+* Create a front-end angular app with custom HTML, CSS, and JavaScript.
+* Use client-side routing to create and route to at least two different pages (each with their own view templates and controllers).
 
-Minimum requirements:
-* Create an angular app with custom HTML, CSS, and JavaScript.  
-* Use client-side routing to create and route at least two pages with different view templates.
-* Create at least two controllers that display different data (one for each view, and any extra needed).
-* Create an express server to serve your front-end files (main HTML, template HTML, CSS, JavaScript, images, assets...).
-
+> We do not expect you to build a realistic CRUD app with a fully featured backend -- instead, we want you to prototype something of value/interest to your client so that you can quickly get critical feedback on your design and implementation *before you have invested significant resources* in the application.
 
 If appropriate for your app, you may need or want to:
-* Create a custom angular directive.
-* Create a custom service.
-* Use an <a href="https://angular-ui.github.io">angular-ui module</a> like UI-bootstrap for a UI component or feature.
-* Incorporate an external angular directive *other than an angular-ui module* (for example, `ngDraggable` or `ngStorage` -- once place to browse is <a href="http://ngmodules.org">ng-modules.org</a>).
+* Use an OO approach (constructors) to organize data and behaviors into classes/models.
 * Use data from an external API.
-* Build a database with models to store your own data.
+* Incorporate an external angular directive like `ngDraggable` or `ngStorage` (see <a href="http://ngmodules.org">ng-modules.org</a>).
+* Create a custom angular directive, model, or service.
 
 ### Scope
+As usual, less is more. Keep your design simple, and execute on it well. If you have time, feel free to reach for stretch goals.
 
-You and your design team may have come up with a large plan. It is your responsibility to divide that plan into small, manageable parts and build them one at a time.
+We feel a realistically scoped project could be one of the following:
+
+* a simple game (flashcards, 20 questions, mancala)
+* an api dashboard (some visualization of data, status updates, snacks)
+* or a simple tool (a phonebook, notebook, or photo album)
 
 ### Deliverables
 
-**A GitHub repository for the project with frequent commits and a README.** The README should acknowledge your design team (links to their LinkedIn).
+**A GitHub repository for the project with frequent commits and a README.**
 
 **A working prototype version of your app on the master branch.**
 
-**A working prototype version of your app deployed on Heroku.** This should be linked in your README.
+**A working prototype version of your app deployed on Heroku or Github Pages.**
 
-On Friday, January 13th, at 4:00pm, you'll check in with your design team to show off an initial version, get feedback, ask questions, etc.
+At 4pm we will have you submit, and then begin science-fair style demos of your applications.
 
-On Tuesday, January 17th, at 9:30am, you'll share what you've built with your design team!
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## Be the turtle. Not the rabbit.
+<img src="https://media.giphy.com/media/p6AoukCOJoIFi/giphy.gif" width="400px">
+<hr>
+<img src="https://media.giphy.com/media/BJ4ZssXq9bZKM/giphy.gif" width="400px">
