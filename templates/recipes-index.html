@@ -1,0 +1,19 @@
+  <div class="col-md-4 col-md-offset-4 text-center">
+    <img class="header-image" src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fclubschoicefundraising.com%2FContent%2Fimg%2Frecipe-book.png&f=1">
+  </div>
+<!-- search bar -->
+  <div class="col-md-4 col-md-offset-4 search-bar" display="block">
+    <input type="text" class="form-control" ng-model="searchText" placeholder="Search by Ingredient">
+  </div>
+<!-- recipes -->
+<div class="col-md-12">
+  <div class="col-md-2 recipes" ng-repeat="recipe in recipesIndexCtrl.recipes | orderBy: 'social_rank' | filter: searchText">
+    <div><img class="recipe-image" ng-src="{{recipe.image_url}}"></img></div>
+    <p><a ng-href="recipes/{{recipe._id}}">{{recipe.title}}</a></p>
+    <p><a ng-href="{{recipe.publisher_url}}">{{recipe.publisher}}</a></p>
+    <p>{{recipe.source_url}}</p>
+    <p>{{recipe.f2f_url}}</p>
+    <p>{{recipe.ingredients}}</p>
+    <p>{{recipe.social_rank}}</p>
+  </div>
+</div>
